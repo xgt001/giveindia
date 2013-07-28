@@ -1,0 +1,10 @@
+A work in progress solution for GIVE INDIA foundation, with facebook integration, custom algorithm, geolocation awareness, and cross platform support.
+
+A large part of the work is spread across the folders, so apologies for the incovenience.
+
+AGiveTest : PhoneGAP implementation of the app
+
+facebook-android-team03 : Facebook Auth portion of the challenge in FB android sdk
+recommendation_algorithm: TFIDF algorithm, summarizing algorithm.
+
+
